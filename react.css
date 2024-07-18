@@ -8,12 +8,13 @@ body {
 }
 
 h1 {
+  font-size: x-large;
+  font-weight: bold;
   position: fixed;
-  top: calc(50% - 24px);
+  vertical-align: top;
   left: calc(50% - 186px);
   color: palevioletred;
   text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
   z-index: 10;
 }
-
 
