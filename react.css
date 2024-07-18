@@ -1,0 +1,9 @@
+h1 {
+   font-size: x-large;
+  font-weight: bold;
+  position: fixed;
+  text-align: center;
+  color: palevioletred;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  z-index: 10;
+}
