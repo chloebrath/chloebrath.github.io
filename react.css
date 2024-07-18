@@ -1,14 +1,5 @@
-body {
-  background-image:url('nyan.gif');
-  background-size:100%;
-  background-repeat: repeat-y;
-  background-attachment: fixed;
-  height:100%;
-  width:100%;
-}
-
 h1 {
-  font-size: x-large;
+   font-size: x-large;
   font-weight: bold;
   position: fixed;
   text-align: center;
@@ -16,4 +7,3 @@ h1 {
   text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
   z-index: 10;
 }
-
